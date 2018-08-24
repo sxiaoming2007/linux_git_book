@@ -1,6 +1,6 @@
-==========
+==================
 Linux工具快速教程
-==========
+==================
 
 前言
 ----
@@ -56,8 +56,7 @@ Linux下有很多命令行工具供我们使用，每个工具总是提供了大
 .. toctree::
     :maxdepth: 2
     :glob:
-
-
-Indices and tables
-==================
-
+    
+    base/index
+    advance/index
+    tool/index

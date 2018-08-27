@@ -10,6 +10,6 @@ Linux工具进阶
     :numbered: 2    
 
     01_program_build
-    
+    02_jupyter    
 
 

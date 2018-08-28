@@ -58,7 +58,6 @@ Linux下有很多命令行工具供我们使用，每个工具总是提供了大
     :glob:
     
     .. config_start
-    base/index
     advance/index
+    base/index
     tool/index
-    .. config_end

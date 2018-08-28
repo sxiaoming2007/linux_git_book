@@ -7,5 +7,7 @@
     :maxdepth: 1
     :numbered: 2
 
+    .. config_start
     01_gdb
+    .. config_end
 

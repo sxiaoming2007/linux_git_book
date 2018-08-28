@@ -57,6 +57,8 @@ Linux下有很多命令行工具供我们使用，每个工具总是提供了大
     :maxdepth: 2
     :glob:
     
+    .. config_start
     base/index
     advance/index
     tool/index
+    .. config_end

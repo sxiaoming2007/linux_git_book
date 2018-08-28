@@ -14,11 +14,7 @@ Linux基础
     :maxdepth: 1
     :numbered: 2
 
+    .. config_start 
     01_use_man
-
-
-
-----
-
-.. [#] 鸟哥的Linux私房菜 基础学习篇(第二版) http://book.douban.com/subject/2208530/
+    .. config_end
 

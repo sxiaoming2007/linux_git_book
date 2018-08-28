@@ -9,5 +9,3 @@
 
     .. config_start
     01_gdb
-    .. config_end
-

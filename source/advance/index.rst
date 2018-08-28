@@ -11,7 +11,4 @@ Linux工具进阶
     
     .. config_start
     01_program_build
-    02_jupyter    
-    .. config_end
-
-
+    02_jupyter

@@ -16,5 +16,3 @@ Linux基础
 
     .. config_start 
     01_use_man
-    .. config_end
-
